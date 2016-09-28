@@ -1,0 +1,403 @@
+::-moz-selection {
+  background-color: #7e0005; 
+  color: #fff;
+}
+
+::selection {
+  background-color: #7e0005; 
+  color: #fff;
+}
+
+.navbar{
+    border-bottom: 4px solid #fff;
+    background-color: #0d0d0d;
+}
+
+nav.bg-faded {
+    background-color: #0d0d0d;
+    color: #fff;
+}
+
+body > nav > ul > li:nth-child(2) > a{
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Luckiest Guy', cursive;
+    text-transform: uppercase;
+    padding: 0 8px;
+    -moz-transition: color 1.0s ease;
+    -o-transition: color 1.0s ease;
+    -webkit-transition: color 1.0s ease;
+    transition: color 1.0s ease;
+}
+
+.navbar-light .navbar-nav .nav-link:hover,
+.navbar-light .navbar-nav .nav-link:active,
+.navbar-light .navbar-nav .nav-link:focus{
+    color: #7e0005;
+}
+
+nav ul.nav{
+    margin-right: 32px;
+}
+
+header{
+    background-color: #0d0d0d;
+    height: 710px;
+    background-repeat: none;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.author{
+    padding-top: 70px;
+}
+
+.author img{
+    width: 200px;
+    height: 200px;
+}
+
+.author-text{
+    padding-top: 40px;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+h1{
+    font-size: 102px;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+h1 span{
+    color: #7e0005;
+    border-bottom: 10px solid #7e0005; 
+    border-radius: 10px;
+}
+
+.logo{
+    padding-top: 40px;
+}
+
+.start-text .fa-rocket{
+    font-size: 120px;
+    color: #7e0005;
+    padding: 40px 0;
+    -moz-transition: color 1.0s ease;
+    -o-transition: color 1.0s ease;
+    -webkit-transition: color 1.0s ease;
+    transition: color 1.0s ease;
+}
+
+.start-text .fa-rocket:hover{
+    color: #fff;
+}
+
+.start-text p{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 32px;
+}
+
+/*#border-end{
+    width: 100%;
+    height: 5px;
+    background-color: #7e0005;
+    bottom: 10px;
+}*/
+
+#header-end > .fa-sort-asc{
+    font-size: 72px;
+    color: #fff;
+    margin-top: -30px;
+    margin-left: 48.5%;
+}
+
+#offert{
+    color: #000;
+    background-color: #fff;
+}
+
+#offert p,
+#offert h4{
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+/*#offert img{
+    width: 360px;
+    height: 220px;
+}*/
+
+#offert h2,
+#three > h2{
+    display: none;
+}
+
+#offert h4{
+    padding: 12px 0;
+    text-transform: uppercase;
+    font-size: 32px;
+}
+
+.responsive-desing,
+.e-commerce,
+.web-design{
+    padding: 40px 0;
+}
+
+.e-commerce{
+    text-align: right;
+}
+
+#about{
+    margin-top: 40px;
+    position: relative;
+    background: url(../img/wear.png) center top no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+#about h2{
+    display: none;
+}
+
+.about-text{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: #0d0d0d;
+    font-family: 'Alegreya Sans', sans-serif;
+    padding: 20px 0;
+    color: #fff;
+}
+
+.about-text h4{
+    font-size: 32px;
+    color: #fff;
+    padding: 20px 0;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+#services{
+    padding-top: 55px;
+    text-align: center;
+    font-family: 'Alegreya Sans', sans-serif;
+}
+
+#services h2{
+    display: none;
+}
+
+.info{
+    padding: 32px 0;
+}
+
+.info i{
+    font-size: 120px;
+    padding: 20px 0;
+}
+
+.info:nth-child(2) i{
+    color: #7e0005; 
+}
+
+.info h4{
+    font-size: 32px;
+}
+
+#footer-start > .fa-sort-desc{
+    font-size: 72px;
+    color: #fff;
+    margin-top: -42px;
+    margin-left: 48.5%;
+}
+
+footer{
+    background-color: #0d0d0d;
+}
+
+.footer-list h4{
+    padding: 20px 0 10px 0;
+    font-family: 'Luckiest Guy', cursive;
+    color: #7e0005;
+}
+
+.footer-list ul li{
+    list-style: none;
+    color: #fff;
+    padding-top: 8px;
+    font-family: 'Alegreya Sans', sans-serif;
+    text-align: left;
+    font-size: 14px;
+}
+
+.footer-sum > img{
+    width: 300px;
+}
+
+.footer-sum > p{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 24px;
+}
+
+.footer-sum > p .fa-phone{
+    font-size: 32px;
+    padding-right: 8px;
+    color: #fff;
+}
+
+.social-media{
+    text-align: center;
+    font-size: 32px;
+}
+
+.social-media a{
+    text-decoration: none;
+    color: #fff;
+    padding-right: 4px;
+}
+
+#pricing{
+    text-align: center;
+}
+
+#pricing h2{
+    font-size: 64px;
+    background-color: #000;
+    color: #fff;
+    padding: 40px;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+.tables-wrapper{
+    padding: 80px 0;
+}
+
+.pricing-table {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.table-header {
+    background-color: #0d0d0d;
+    border-bottom: 4px solid  #7e0005;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 40px;
+    padding-top: 14px;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.content {
+    width: 290px;
+    border-radius: 0px 0px 5px 5px;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 90px;
+    color: #fff;
+    text-align: center;
+    color: #0d0d0d;
+    border: 2px solid #0d0d0d;
+}
+
+.price {
+    border-bottom: 4px solid #7e0005;
+    padding: 20px 0 42px 0;
+}
+
+.content .price > p {
+    font-size: 14px;
+    color: #7e0005;
+    padding: 0px;
+    margin: -8px;
+}
+
+.offert-list{
+    display: block;
+}
+
+.offert-list ul {
+    list-style: none;
+    font-size: 18px;
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #0d0d0d;
+    padding: 20px 0;
+}
+
+.offert-list ul li{
+    padding: 5px 0;
+}
+
+
+@media(max-width: 1100px){
+    .logo h1{
+        font-size: 72px;
+    }
+    
+    .start-text .fa-rocket{
+      font-size: 62px;
+    }
+       
+    .start-text p{
+        font-size: 22px;
+    }
+}
+
+@media(max-width: 543px){
+    .logo{
+        padding-top: 20px;
+    }
+    
+    
+    .logo h1{
+        font-size: 42px;
+    } 
+    
+    .start-text .fa-rocket{
+      font-size: 42px;
+      padding: 34px;
+    }
+    
+    .start-text p{
+        font-size: 17px;
+    }
+}
+
+@media(max-width: 1199px){
+    .tables-wrapper .premium{
+        margin-top: 25px;
+    }
+}
+
+@media(max-width: 767px){
+    .tables-wrapper .ninja{
+        margin-top: 25px;
+    }
+}
+
+@media(max-width: 767px){
+    .navbar > ul{
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item{
+        float: none;
+    }
+}
+
+@media(max-width: 361px){
+    .content{
+        width: 225px;
+    }
+
+    #pricing > h2{
+        margin-left: -30px;
+    }
+}
+

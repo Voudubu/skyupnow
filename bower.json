@@ -1,0 +1,33 @@
+{
+  "name": "htmlresponsivetempaltes",
+  "version": "1.0.7",
+  "homepage": "http://htmlresponsivetemplates.com",
+  "authors": [
+    "Mateusz Jerzyk"
+  ],
+  "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap",
+  "keywords": [
+    "bootstrap",
+    "theme"
+  ],
+  "license": "MIT",
+  "main": [
+    "css/styles.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "pages",
+    "index.html",
+    "/js",
+    "/bower_components/bootstrap/dist/js"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.4",
+    "font-awesome": "fontawesome#^4.6.3",
+    "jquery.easing": "^1.3.1"
+  }
+}
