@@ -6,12 +6,12 @@ Free open-source Bootstrap 4 [Humming-Bird](http://htmlresponsivetemplates.com/p
 
 ## Getting Started
 
-* Download from [htmlresponsivetemplates](htmlresponsivetemplates)
-* Clone the repo: `git clone https://github.com/sky/sky.git`
+* Download from [htmlresponsivetemplates](http://htmlresponsivetemplates.com/project/humming-bird)
+* Clone the repo: `git clone https://github.com/htmlresponsivetemplates/humming-bird.git`
 
 ## Creator
 
-htmlresponsivetemplates is created and maitained by Mateusz Jerzyk
+[htmlresponsivetemplates](http://htmlresponsivetemplates.com) is created and maitained by Mateusz Jerzyk.
 
 ## Copyright and License
 
