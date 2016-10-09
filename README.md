@@ -1,8 +1,8 @@
-# [htmlresponsivetemplates](http://htmlresponsivetemplates.com/) - [Sky](http://htmlresponsivetemplates.com/sky/)
+# [htmlresponsivetemplates](http://htmlresponsivetemplates.com) - [Humming-Bird](http://htmlresponsivetemplates.com/project/humming-bird)
 
 #Description
 
-[Humming-Bird](http://htmlresponsivetemplates.com/sky/) - free open-source Bootstrap 4 Humming-Bird portfolio template.
+Free open-source Bootstrap 4 [Humming-Bird](http://htmlresponsivetemplates.com/project/humming-bird) portfolio template.
 
 ## Getting Started
 
@@ -11,8 +11,8 @@
 
 ## Creator
 
-htmlresponsivetemplates is created and maitained by **[Mateusz Jerzyk]**
+htmlresponsivetemplates is created and maitained by Mateusz Jerzyk
 
 ## Copyright and License
 
-Copyright 2016. Code released under the [MIT](https://github.com/sky).
+Copyright 2016. Code released under the [MIT](https://github.com/sky) license.
