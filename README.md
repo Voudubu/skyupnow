@@ -11,7 +11,7 @@ Free open-source Bootstrap 4 [Humming-Bird](http://htmlresponsivetemplates.com/p
 
 ## Creator
 
-[htmlresponsivetemplates](http://htmlresponsivetemplates.com) is created and maitained by Mateusz Jerzyk.
+[htmlresponsivetemplates](http://htmlresponsivetemplates.com) is created and maintained by Mateusz Jerzyk.
 
 ## Copyright and License
 
